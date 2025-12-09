@@ -22,12 +22,6 @@ I love hearing "Oh wow, that just worked" from someone who thought it would be d
 
 ## What you’ll find here
 
-- scripts/ — small, focused helpers (shell, Python) with comments and usage info
-- examples/ — sample config files and tiny dotfile snippets
-- docs/ — longer write-ups for tricky tasks and step-by-step walkthroughs
-- LICENSE — usually MIT for simplicity and reuse
-- CONTRIBUTING.md — how I prefer contributions (coming soon)
-
 Typical scripts I add:
 - Basic setup helpers: create a user, install a set of packages.
 - Package helpers: small wrappers to install the same tool on Debian/Fedora/Arch
