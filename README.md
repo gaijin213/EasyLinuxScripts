@@ -41,6 +41,12 @@ I want you to be able to read a script and understand the train of thought that 
 
 ---
 
+### 🗂️ Menu
+
+- [Penguin-Popular Apps Installer](https://github.com/gaijin213/EasyLinuxScripts/releases/tag/v1.0)
+
+---
+
 ## Want to contribute?
 
 Yes — please. Things I appreciate:
