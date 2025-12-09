@@ -1,4 +1,4 @@
-# EasyLnuxScripts
+# EasyLinuxScripts
 
 Hi — I'm glad you're here. I started on computers when CDs were a luxury, Windows was the everyday, and a mis-click could feel like a personal betrayal. Switching to Linux years later felt like finally getting the keys to a house I’d been visiting for decades: exciting, liberating, and — I’ll admit — occasionally confusing.
 
